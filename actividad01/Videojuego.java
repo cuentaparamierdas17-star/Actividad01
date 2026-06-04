@@ -106,13 +106,4 @@ public class Videojuego {
     public int getLanzamientoAnio() {
         return lanzamientoAnio;
     }
-
-    public void incrementarPrecio(double cantidad) {
-        this.precio += cantidad;
-    }
-    
-    public void decrementarPrecio(int cantidad){
-        this.precio -= cantidad;
-    }
-
 }
