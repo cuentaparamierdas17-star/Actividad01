@@ -1,13 +1,12 @@
 package com.mycompany.actividad01;
 
 /**
- * 
+ *
  * @author PC-03
- * 
+ *
  * @version 4/6/2026
- * 
+ *
  */
-
 public class Videojuego {
 
     /**
@@ -72,7 +71,6 @@ public class Videojuego {
      *
      * @param lanzamientoAnio
      */
-
     public void setLanzamientoAnio(int lanzamientoAnio) {
         this.lanzamientoAnio = lanzamientoAnio;
     }
@@ -107,6 +105,10 @@ public class Videojuego {
      */
     public int getLanzamientoAnio() {
         return lanzamientoAnio;
+    }
+
+    public void incrementarPrecio(double cantidad) {
+        this.precio += cantidad;
     }
 
 }
