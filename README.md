@@ -8,3 +8,5 @@ El ejercicio consiste en practicar los comandos básicos de git estudiados en cl
 Diego Ruiz García
 Miguel García Rodriguez
 Juan Jose De La Cruz Amarillo
+
+dfgmdfihnp´ni
