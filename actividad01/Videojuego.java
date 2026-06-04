@@ -36,4 +36,21 @@ public class Videojuego {
     public void setLanzamientoAnio(int lanzamientoAnio) {
         this.lanzamientoAnio = lanzamientoAnio;
     }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public String getGenero() {
+        return genero;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }
+
+    public int getLanzamientoAnio() {
+        return lanzamientoAnio;
+    }
+
 }
