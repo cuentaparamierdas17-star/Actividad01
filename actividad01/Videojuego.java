@@ -20,4 +20,20 @@ public class Videojuego {
         this.precio = precio;
         this.lanzamientoAnio = lanzamientoAnio;
     }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public void setGenero(String genero) {
+        this.genero = genero;
+    }
+
+    public void setPrecio(double precio) {
+        this.precio = precio;
+    }
+
+    public void setLanzamientoAnio(int lanzamientoAnio) {
+        this.lanzamientoAnio = lanzamientoAnio;
+    }
 }
